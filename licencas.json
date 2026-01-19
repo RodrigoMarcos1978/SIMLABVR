@@ -1,53 +1,202 @@
 {
+    "licenses": {
+        "rodrigomarcos1978@hotmail.com": {
+            "machine_id": null
+        },
+        "rodrigomarcos1978@gmail.com": {
+            "machine_id": "edd090e8813178ab27a55ba0de81baa4"
+        },
+        "carlos.mitidiero@gmail.com": {
+            "machine_id": null
+        },
+        "agswelding@gmail.com": {
+            "machine_id": null
+        },
+        "cdgardim@gmail.com": {
+            "machine_id": null
+        },
+        "atumatomico@gmail.com": {
+            "machine_id": null
+        },
+        "ditocallado@outlook.com": {
+            "machine_id": null
+        },
+        "josiclei_sauzen@hotmail.com": {
+            "machine_id": null
+        },
+        "josiclei.sausen58@gmail.com": {
+            "machine_id": null
+        },
+        "dfceletronicos@hotmail.com": {
+            "machine_id": null
+        },
+        "rafael_livebox@hotmail.com": {
+            "machine_id": null
+        },
+        "acbsimao@hotmail.com": {
+            "machine_id": null
+        },
+        "alexprofsenai@gmail.com": {
+            "machine_id": null
+        },
+        "marcossurfgame@gmail.com": {
+            "machine_id": null
+        },
+        "kaduh_sf@hotmail.com": {
+            "machine_id": null
+        },
+        "alexandre.henrique.oliveira@gmail.com": {
+            "machine_id": null
+        },
+        "marcosvcdom@hotmail.com": {
+            "machine_id": null
+        },
+        "leocrisvitor@gmail.com": {
+            "machine_id": null
+        },
+        "etnrlz@gmail.com": {
+            "machine_id": null
+        },
+        "fecrusty@uol.com.br": {
+            "machine_id": null
+        },
+        "mauricio.mech@gmail.com": {
+            "machine_id": null
+        },
+        "guigotri@gmail.com": {
+            "machine_id": null
+        },
+        "topunkajones@gmail.com": {
+            "machine_id": null
+        },
+        "4x4motorsports@gmail.com": {
+            "machine_id": null
+        },
+        "gustavognecchi@gmail.com": {
+            "machine_id": null
+        },
+        "vilmafpetry@gmail.com": {
+            "machine_id": null
+        },
+        "drgtpereira@gmail.com": {
+            "machine_id": null
+        },
+        "michaelalves01@hotmail.com": {
+            "machine_id": null
+        },
+        "vendas@misterhome.com.br": {
+            "machine_id": null
+        },
+        "thicabrera@gmail.com": {
+            "machine_id": null
+        },
+        "dm@dmracer.com.br": {
+            "machine_id": null
+        },
+        "luctj@hotmail.com": {
+            "machine_id": null
+        },
+        "reinaldo.r.o.2010@hotmail.com": {
+            "machine_id": null
+        },
+        "joaopscampana@hotmail.com": {
+            "machine_id": null
+        },
+        "pedro.almeida86@gmail.com": {
+            "machine_id": null
+        },
+        "fabio.camoes@hotmail.com": {
+            "machine_id": null
+        },
+        "enrique_cardoso@hotmail.com": {
+            "machine_id": null
+        },
+        "flaviochyna@gmail.com": {
+            "machine_id": null
+        },
+        "paulo@diagrama.com.br": {
+            "machine_id": null
+        },
+        "marcelo.moreira10@icloud.com": {
+            "machine_id": null
+        },
+        "celso@etnrlz.com": {
+            "machine_id": null
+        },
+        "botegafotografo@hotmail.com": {
+            "machine_id": null
+        },
+        "mx_daniel_@hotmail.com": {
+            "machine_id": null
+        },
+        "lipevinipc@gmail.com": {
+            "machine_id": null
+        },
+        "silviooojuniorrr@gmail.com": {
+            "machine_id": null
+        },
+        "pancon2@gmail.com": {
+            "machine_id": null
+        },
+        "fernandocalafell.gl": {
+            "machine_id": null
+        },
+        "ceicim@unemat.br": {
+            "machine_id": null
+        },
+        "regivaldoareado@gmail.com": {
+            "machine_id": null
+        }
+    },
     "emails_autorizados": [
-        "rodrigomarcos1978@hotmail.com",
-        "rodrigomarcos1978@gmail.com",
-        "carlos.mitidiero@gmail.com",
-        "agswelding@gmail.com",
-        "cdgardim@gmail.com",
-        "atumatomico@gmail.com",
-        "ditocallado@outlook.com",
-        "josiclei_sauzen@hotmail.com",
-        "Josiclei.sausen58@gmail.com",
-        "dfceletronicos@hotmail.com",
-        "rafael_livebox@hotmail.com",
-        "acbsimao@hotmail.com",
-        "alexprofsenai@gmail.com",
-        "marcossurfgame@gmail.com",
-        "kaduh_sf@hotmail.com",
-        "alexandre.henrique.oliveira@gmail.com",
-        "marcosvcdom@hotmail.com",
-        "leocrisvitor@gmail.com",
-        "etnrlz@gmail.com",
-        "fecrusty@uol.com.br",
-        "mauricio.mech@gmail.com",
-        "guigotri@gmail.com",
-        "topunkajones@gmail.com",
         "4x4motorsports@gmail.com",
-        "gustavognecchi@gmail.com",
-        "vilmafpetry@gmail.com",
-        "drgtpereira@gmail.com",
-        "michaelalves01@hotmail.com",
-        "vendas@misterhome.com.br",
-        "thicabrera@gmail.com",
-        "dm@dmracer.com.br",
-        "luctj@hotmail.com",
-        "reinaldo.r.o.2010@hotmail.com",
-        "joaopscampana@hotmail.com",
-        "pedro.almeida86@gmail.com",
-        "fabio.camoes@hotmail.com",
-        "enrique_cardoso@hotmail.com",
-        "flaviochyna@gmail.com",
-        "paulo@diagrama.com.br",
-        "marcelo.moreira10@icloud.com",
-        "celso@etnrlz.com",
+        "acbsimao@hotmail.com",
+        "agswelding@gmail.com",
+        "alexandre.henrique.oliveira@gmail.com",
+        "alexprofsenai@gmail.com",
+        "atumatomico@gmail.com",
         "botegafotografo@hotmail.com",
-        "mx_daniel_@hotmail.com",
-        "lipevinipc@gmail.com",
-        "silviooojuniorrr@gmail.com",
-        "pancon2@gmail.com",
-        "fernandocalafell.gl",        
+        "carlos.mitidiero@gmail.com",
+        "cdgardim@gmail.com",
         "ceicim@unemat.br",
-        "regivaldoareado@gmail.com"
+        "celso@etnrlz.com",
+        "dfceletronicos@hotmail.com",
+        "ditocallado@outlook.com",
+        "dm@dmracer.com.br",
+        "drgtpereira@gmail.com",
+        "enrique_cardoso@hotmail.com",
+        "etnrlz@gmail.com",
+        "fabio.camoes@hotmail.com",
+        "fecrusty@uol.com.br",
+        "fernandocalafell.gl",
+        "flaviochyna@gmail.com",
+        "guigotri@gmail.com",
+        "gustavognecchi@gmail.com",
+        "joaopscampana@hotmail.com",
+        "josiclei.sausen58@gmail.com",
+        "josiclei_sauzen@hotmail.com",
+        "kaduh_sf@hotmail.com",
+        "leocrisvitor@gmail.com",
+        "lipevinipc@gmail.com",
+        "luctj@hotmail.com",
+        "marcelo.moreira10@icloud.com",
+        "marcossurfgame@gmail.com",
+        "marcosvcdom@hotmail.com",
+        "mauricio.mech@gmail.com",
+        "michaelalves01@hotmail.com",
+        "mx_daniel_@hotmail.com",
+        "pancon2@gmail.com",
+        "paulo@diagrama.com.br",
+        "pedro.almeida86@gmail.com",
+        "rafael_livebox@hotmail.com",
+        "regivaldoareado@gmail.com",
+        "reinaldo.r.o.2010@hotmail.com",
+        "rodrigomarcos1978@gmail.com",
+        "rodrigomarcos1978@hotmail.com",
+        "silviooojuniorrr@gmail.com",
+        "thicabrera@gmail.com",
+        "topunkajones@gmail.com",
+        "vendas@misterhome.com.br",
+        "vilmafpetry@gmail.com"
     ]
 }
